@@ -18,6 +18,6 @@ public:
             suffix *= nums[i];
         }
 
-        return result;
+        return result;N
     }
 };
